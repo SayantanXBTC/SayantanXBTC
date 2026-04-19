@@ -1,5 +1,15 @@
 # About Me:
-👋 Hey, I'm Sayantan Bhattacharjee — I build AI systems focused on solving real-world problems, currently working on projects like a Virtual Immune System Simulator for disease prediction and a Face Recognition Memory Assistant for dementia support, along with end-to-end AI applications involving frontend, backend, and APIs. I’m interested in collaborating on impactful AI/ML projects, especially in healthcare and emerging areas like 3D web, VR, and intelligent agents. At the same time, I’m working on improving model performance and scalability, exploring better alternatives to FaceNet, and deepening my understanding of advanced machine learning, system design, and AI-driven automation. You can ask me about Java, AI architecture, APIs, performance testing, or building full-stack systems—I approach everything with a product mindset, aiming to create solutions that are practical, scalable, and meaningful.
+👋 Hey, I’m Sayantan Bhattacharjee — I build and test AI-driven systems with a strong focus on reliability, performance, and real-world impact.
+
+Currently, I’m working on projects like a Virtual Immune System Simulator for disease prediction and a Face Recognition Memory Assistant for dementia support, where I emphasize not just model accuracy but also robust testing, validation, and scalability in production environments.
+
+My work extends across end-to-end system development and testing — from designing APIs and backend architectures to implementing performance testing, test automation, and validation pipelines for AI models. I’m particularly interested in ensuring that intelligent systems are fault-tolerant, efficient, and production-ready, especially in critical domains like healthcare.
+
+I actively explore improvements in model performance and benchmarking, including alternatives to FaceNet, while strengthening my expertise in test strategies, system design, and AI system validation.
+
+I’m open to collaborating on impactful AI/ML projects where software quality, testing, and scalability are as important as innovation — particularly in healthcare, intelligent agents, and emerging spaces like 3D web and VR.
+
+You can ask me about software testing (manual + automation), performance testing, API validation, AI system testing, Java, and full-stack system design — I approach everything with a product mindset, ensuring solutions are not just built, but tested, reliable, and ready for real-world deployment.
 
 
 ## 🌐 Socials:
